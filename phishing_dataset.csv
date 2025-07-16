@@ -1,0 +1,5 @@
+having_IP_Address,URL_Length,SSLfinal_State,Domain_registeration_length,web_traffic,Label
+-1,1,1,1,1,1
+1,0,-1,0,0,0
+-1,1,0,-1,-1,1
+1,-1,-1,0,-1,0
